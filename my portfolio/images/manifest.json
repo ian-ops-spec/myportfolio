@@ -1,0 +1,143 @@
+{
+  "description": "Original-to-current filename record for portfolio photographs. Attachment assignments are based on visible image content; no task completion is asserted.",
+  "images": [
+    {
+      "original": "profile.png",
+      "filename": "profile.png",
+      "unit": null,
+      "notes": "Existing homepage profile portrait."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.08.23.jpeg",
+      "filename": "portrait-outdoor.jpeg",
+      "unit": null,
+      "notes": "Outdoor portrait; retained as a profile image, not assigned as attachment evidence."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.45.jpeg",
+      "filename": "os-installation-01.jpeg",
+      "unit": "Operating Systems",
+      "notes": "Windows Setup drive and partition selection screen."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.46.jpeg",
+      "filename": "os-installation-02.jpeg",
+      "unit": "Operating Systems",
+      "notes": "Windows desktop shown on a workstation."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.47 (1).jpeg",
+      "filename": "os-storage-setup-01.jpeg",
+      "unit": "Operating Systems",
+      "notes": "Windows Disk Management New Simple Volume Wizard."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.47.jpeg",
+      "filename": "os-installation-03.jpeg",
+      "unit": "Operating Systems",
+      "notes": "Windows Setup installation progress screen."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.48.jpeg",
+      "filename": "os-storage-setup-02.jpeg",
+      "unit": "Operating Systems",
+      "notes": "Windows Local Disk format dialog."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.52.jpeg",
+      "filename": "networking-01.jpeg",
+      "unit": "Networking and Distributed Systems",
+      "notes": "Windows Ethernet connection status and network settings."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.53.jpeg",
+      "filename": "networking-02.jpeg",
+      "unit": "Networking and Distributed Systems",
+      "notes": "Windows Network and Sharing Center and Ethernet status."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.55.jpeg",
+      "filename": "hardware-maintenance-01.jpeg",
+      "unit": "Computer Organization and Architecture",
+      "notes": "Open desktop computer case and workstation equipment."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.56 (1).jpeg",
+      "filename": "hardware-maintenance-02.jpeg",
+      "unit": "Computer Organization and Architecture",
+      "notes": "Internal desktop computer components."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.56 (2).jpeg",
+      "filename": "hardware-maintenance-03.jpeg",
+      "unit": "Computer Organization and Architecture",
+      "notes": "A tool is shown beside an open desktop computer; visually similar to hardware-maintenance-02.jpeg."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.43.56.jpeg",
+      "filename": "hardware-maintenance-04.jpeg",
+      "unit": "Computer Organization and Architecture",
+      "notes": "Open desktop computer case with internal components visible."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 14.44.13.jpeg",
+      "filename": "information-systems-dashboard-01.jpeg",
+      "unit": "Information Systems",
+      "notes": "DHIS2 dashboard interface with visible map-layer warnings."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.01.17 (1).jpeg",
+      "filename": "database-01.jpeg",
+      "unit": "Database Management Systems (DBMS)",
+      "notes": "MySQL terminal showing table data operations."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.01.17 (2).jpeg",
+      "filename": "database-02.jpeg",
+      "unit": "Database Management Systems (DBMS)",
+      "notes": "MySQL terminal showing database tables and schema details."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.01.17.jpeg",
+      "filename": "database-03.jpeg",
+      "unit": "Database Management Systems (DBMS)",
+      "notes": "MySQL database and table descriptions in a terminal."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.01.18.jpeg",
+      "filename": "database-04.jpeg",
+      "unit": "Database Management Systems (DBMS)",
+      "notes": "MySQL terminal showing product and customer table operations."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.11.18 (1).jpeg",
+      "filename": "graphic-design-01.jpeg",
+      "unit": "Graphic Design",
+      "notes": "Ink Press promotional artwork."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.11.18.jpeg",
+      "filename": "graphic-design-02.jpeg",
+      "unit": "Graphic Design",
+      "notes": "Ink Press promotional flyer artwork."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.11.44 (1).jpeg",
+      "filename": "graphic-design-03.jpeg",
+      "unit": "Graphic Design",
+      "notes": "Street-light system poster artwork."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.11.44 (2).jpeg",
+      "filename": "graphic-design-04.jpeg",
+      "unit": "Graphic Design",
+      "notes": "Congratulations poster artwork."
+    },
+    {
+      "original": "WhatsApp Image 2026-11-08 at 15.11.44.jpeg",
+      "filename": "graphic-design-05.jpeg",
+      "unit": "Graphic Design",
+      "notes": "Cake promotional poster artwork."
+    }
+  ]
+}
