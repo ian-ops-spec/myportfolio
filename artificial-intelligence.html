@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#211710">
+    <title>Artificial Intelligence | Ian Witinga</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header class="site-header">
+    <nav class="navbar page-width" aria-label="Main navigation">
+        <a class="logo" href="../index.html#home" aria-label="Ian Witinga home">IW<span>.</span></a>
+        <button class="menu-btn" id="menuButton" type="button" aria-expanded="false" aria-controls="navLinks" aria-label="Open navigation"><span></span><span></span><span></span></button>
+        <ul class="nav-links" id="navLinks">
+            <li><a href="../index.html#home">Home</a></li><li><a href="../index.html#about">About</a></li>
+            <li><a href="../index.html#attachment">Attachment</a></li><li><a href="../index.html#training-units">Training Units</a></li>
+            <li><a href="../index.html#evidence">Evidence</a></li><li><a href="../index.html#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main data-unit-page="artificial-intelligence">
+    <section class="unit-hero"><div class="page-width"><a class="back-link" href="../index.html#training-units">← Back to Training Units</a><p class="eyebrow" id="unitNumber"></p><h1 id="unitTitle"></h1><p class="unit-introduction" id="unitIntroduction"></p><p class="unit-student">IAN WITINGA <span>·</span> COMPUTER SCIENCE LEVEL 6</p></div></section>
+    <section class="section section-light"><div class="page-width"><div class="section-heading"><p class="eyebrow">ATTACHMENT REPORT</p><h2>Unit <span>Record</span></h2><p class="section-lead">Complete this record with your own verified activities and experience.</p></div><article class="unit-description-panel"><h2>About this unit</h2><p id="unitDescription"></p></article><div class="unit-report-grid" id="unitReportFields"></div></div></section>
+    <section class="section"><div class="page-width"><div class="section-heading"><p class="eyebrow">PHOTO DOCUMENTATION</p><h2>Photographic <span>Evidence</span></h2><p class="section-lead">Add your own attachment photographs, with a caption and description for each.</p></div><form class="photo-upload-form" id="photoUploadForm"><label class="upload-picker">Choose photographs<input type="file" accept="image/*" multiple required></label><p class="upload-help">Select one or more image files. Captions and activity explanations are required; dates are optional. Photos are stored in this browser on this device.</p><div id="pendingPhotos" class="pending-photos"></div><button class="button button-gold" type="submit">Save photographs</button></form><p class="storage-status" data-storage-status role="status" hidden></p><div class="evidence-gallery unit-evidence-gallery" id="unitEvidenceGallery" aria-live="polite"></div></div></section>
+    <nav class="unit-navigation page-width" id="unitNavigation" aria-label="Training unit navigation"></nav>
+</main>
+<footer class="site-footer"><div class="page-width footer-inner"><a class="logo" href="../index.html#home">IAN<span>.</span></a><p>Computer Science Level 6 · Industrial Attachment Portfolio</p><p>© <span id="year"></span> Ian Witinga. All rights reserved.</p></div></footer>
+<dialog class="lightbox" id="photoLightbox" aria-label="Enlarged evidence photograph"><button class="lightbox-close" type="button" aria-label="Close enlarged photograph">×</button><img class="lightbox-image" alt=""><div class="lightbox-caption"></div></dialog>
+<script src="../script.js"></script>
+</body>
+</html>
